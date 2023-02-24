@@ -40,44 +40,48 @@ section {
   text-align: left;
 }
 
-#alessia {
-  background-color: #666;
+body {
+  background-color: #767676;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-#alessia header {
-  background-color: #8c271e;
+header {
+  background-color: #44195e;
   border-bottom: 8px solid #fff;
 }
 
-#alessia header h1 {
+header h1 {
   color: #fff;
   margin-top: 75px;
   font-size: 40px;
 }
 
-#alessia header nav ul {
+header h2 {
+  color: #fff;
+}
+
+header nav ul {
   margin-bottom: 75px;
 }
 
-#alessia header nav ul li a {
-  background-color: #666;
+header nav ul li a {
+  background-color: #767676;
   color: #fff;
   text-decoration: none;
   padding: 8px 15px;
   border-radius: 10px;
-  font-size: 18px;
+  font-size: 16px;
 }
 
-#alessia header nav ul li a:hover {
+header nav ul li a:hover {
   background-color: #fff;
-  color: #666;
+  color: #767676;
   text-decoration: none;
   padding: 8px 15px;
   border-radius: 10px;
 }
 
-#alessia main section {
+main section {
   background-color: #d8ddde;
   border: 8px solid #fff;
   border-radius: 10px;
@@ -85,10 +89,10 @@ section {
   line-height: 35px;
 }
 
-#alessia main section h2 {
+main section h2 {
   text-align: center;
   font-size: 26px;
-  background-color: #8c271e;
+  background-color: #44195e;
   padding: 8px;
   border-radius: 10px;
   color: #fff;
